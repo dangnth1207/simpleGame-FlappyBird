@@ -14,12 +14,12 @@ Game của chúng ta bao gồm một nhân vật (chú chim) chạy xuyên suố
   --index.html
   --main.js
 - Thêm các State:
-  --Menu:
-    ---preload: thực hiện nạp các tài nguyên (sprite, spritesheet, tilemap, …)
-    ---create: khởi tạo các giá trị, đối tượng có trong state
-    ---update: cập nhật các giá trị, đối tượng có trong state
-  --Game:
-    ---//tương tự như Menu 
+  -Menu:
+    -preload: thực hiện nạp các tài nguyên (sprite, spritesheet, tilemap, …)
+    -create: khởi tạo các giá trị, đối tượng có trong state
+    -update: cập nhật các giá trị, đối tượng có trong state
+  -Game:
+    -//tương tự như Menu 
     
 ## 4. Technical:
   - VSCODE
